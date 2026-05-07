@@ -217,3 +217,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local cache file(s)
+.ms_learn_cache.json
+# My own real profile preferences - can't push that to GitHub unfortunately(Sorry guys 😁). have a look on the user_profile.example.json file for you own one
+user_profile.json

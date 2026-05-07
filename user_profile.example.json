@@ -1,0 +1,26 @@
+{
+    "name": "Jane Doe",
+    "level": "intermediate",
+    "primary_interests": [
+        "AI agents",
+        "LangGraph",
+        "MCP protocol"
+    ],
+    "secondary_interests": [
+        "Azure AI",
+        "MLOps"
+    ],
+    "current_role": "AI engineer",
+    "preferred_languages": [
+        "en"
+    ],
+    "preferred_course_duration_minutes": 60,
+    "completed_courses": [
+        "Introduction to ML",
+        "Transformer architecture basics"
+    ],
+    "in_progress_courses": [],
+    "avoid_topics": [
+        "Excel basics"
+    ]
+}

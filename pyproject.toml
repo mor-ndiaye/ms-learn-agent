@@ -1,7 +1,11 @@
 [project]
 name = "ms-learn-agent"
 version = "0.1.0"
-description = "Add your description here"
+description = "Agentic course advisor for the Microsoft Learn catalog (Claude tool use)"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "anthropic>=0.100.0",
+    "httpx>=0.28.1",
+    "python-dotenv>=1.2.2",
+]
